@@ -1,0 +1,4 @@
+cache/
+patch.log
+__pycache__/
+*.pyc

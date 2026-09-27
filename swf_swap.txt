@@ -1,0 +1,526 @@
+# Flash files served from the English build instead of the German one.
+# One path per line. Put a # in front of a line (or delete it) to go back to German,
+# then reload the game. No proxy restart needed.
+#
+# Tier 1: UI/art files (no *Plugin.swf, no flash/core) where the EN copy is the same age or newer.
+# If one window breaks, comment out its folder's block.
+
+# --- activity (61)
+flash/activity/3366_VIP.swf
+flash/activity/BlueDiamond.swf
+flash/activity/BringinMoney.swf
+flash/activity/ExchangeUI.swf
+flash/activity/Facebook.swf
+flash/activity/FirstSave.swf
+flash/activity/FirstSaveV2.swf
+flash/activity/GongCeFuLiUI.swf
+flash/activity/GrowthScroll.swf
+flash/activity/HallOnlineReward.swf
+flash/activity/HeFuActivityUI.swf
+flash/activity/HotActivityUI.swf
+flash/activity/IngotsConsumeLotteryUI.swf
+flash/activity/JiuweiGift.swf
+flash/activity/KonohaTree.swf
+flash/activity/LiCaiJiHuaUI.swf
+flash/activity/LuckyRechargeGift.swf
+flash/activity/MoneyBonus.swf
+flash/activity/MonthActivityUI.swf
+flash/activity/MysteryChestPosterUI.swf
+flash/activity/NewOneMoneyBuy.swf
+flash/activity/NewUnionServer.swf
+flash/activity/NewUnionServer2018.swf
+flash/activity/OnlineAward.swf
+flash/activity/OpenService.swf
+flash/activity/OpenServiceTongling.swf
+flash/activity/PhoneViewUI.swf
+flash/activity/PlatformBonusUI.swf
+flash/activity/QQFarmNewYear.swf
+flash/activity/QQPetActivity.swf
+flash/activity/QQPetNewYear.swf
+flash/activity/QQ_VIP.swf
+flash/activity/SaveTheJinchuuriki.swf
+flash/activity/SevenDaysUI.swf
+flash/activity/SpringSale.swf
+flash/activity/SuperVipUI.swf
+flash/activity/UnionService.swf
+flash/activity/VIP_GuanJia.swf
+flash/activity/VIP_MiniClient.swf
+flash/activity/VIP_QQBrowser.swf
+flash/activity/VIP_TGP.swf
+flash/activity/VIP_WeiDuan.swf
+flash/activity/VipMedalUI.swf
+flash/activity/YeYouJieUI.swf
+flash/activity/YellowDiamond.swf
+flash/activity/comeback.swf
+flash/activity/comebackV2.swf
+flash/activity/huayang.swf
+flash/activity/jmsl.swf
+flash/activity/limitRecruitUI.swf
+flash/activity/luckyStar.swf
+# flash/activity/minRenQianBao.swf   # broke Naruto's Froggy (empty reward slots, stale EN dates)
+# flash/activity/minRenQianBaoWeek.swf   # Froggy weekly variant, off with it
+flash/activity/newcomeback.swf
+flash/activity/qqFarm.swf
+flash/activity/rebelNinja.swf
+flash/activity/recruitUI.swf
+flash/activity/summerVacationLucky.swf
+flash/activity/xinyueGift.swf
+flash/activity/xslc.swf
+flash/activity/zhuiDaShiLian.swf
+
+# --- arena (1)
+flash/arena/arenaUI.swf
+
+# --- baoju (1)
+flash/baoju/BaoJuAsset.swf
+
+# --- battle (6)
+flash/battle/BattleFinishUI.swf
+flash/battle/BattleRoundUI.swf
+flash/battle/BattleStatisticsUI.swf
+flash/battle/GVGQualifiersUI.swf
+flash/battle/ReplayUI.swf
+flash/battle/ui.battle.swf
+
+# --- battlefield (4)
+flash/battlefield/BattleFieldEnterUI.swf
+flash/battlefield/BattleFiledUI.swf
+flash/battlefield/BattleResultUI.swf
+flash/battlefield/BattlefieldEmployUI.swf
+
+# --- befallDungeon (3)
+flash/befallDungeon/BefallRewardUI.swf
+flash/befallDungeon/uiBefallDungeon.swf
+flash/befallDungeon/uiBefallDungeon2.swf
+
+# --- cardPackage (11)
+flash/cardPackage/VipDailyGift.swf
+flash/cardPackage/cardEffect.swf
+flash/cardPackage/cardPackagePreviewUI.swf
+flash/cardPackage/cardpkg.swf
+flash/cardPackage/continuousCardEffect.swf
+flash/cardPackage/lottery10th.swf
+flash/cardPackage/mmeasset.swf
+flash/cardPackage/ninjaExchangeUI.swf
+flash/cardPackage/ninjaLotteryUI.swf
+flash/cardPackage/shop.swf
+flash/cardPackage/uiMysteryChest.swf
+
+# --- chat (1)
+flash/chat/chatUI.swf
+
+# --- chatBox (1)
+flash/chatBox/chatBoxUI.swf
+
+# --- crew (11)
+flash/crew/CommGiftUI.swf
+flash/crew/CrewUI.swf
+flash/crew/ItemLookUI.swf
+flash/crew/PromoteUI.swf
+flash/crew/cardUI.swf
+flash/crew/crewHelpUI.swf
+flash/crew/formation.swf
+flash/crew/infoUI.swf
+flash/crew/newGiftUI.swf
+flash/crew/ninjaTabUI.swf
+flash/crew/ui.moodUI.swf
+
+# --- crossgvg (3)
+flash/crossgvg/crossGvgHelpUI.swf
+flash/crossgvg/crossGvgRankUI.swf
+flash/crossgvg/crossgvgQualifiersUI.swf
+
+# --- doubleArena (1)
+flash/doubleArena/doubleArenaAsset.swf
+
+# --- dungeon (13)
+flash/dungeon/ChangBaoZhiJian.swf
+flash/dungeon/TeamNewDungenUI.swf
+flash/dungeon/treasureDup.swf
+flash/dungeon/ui.dungeon.dead.swf
+flash/dungeon/ui.dungeon.dungeonTargetPanel.swf
+flash/dungeon/ui.dungeon.ninjaRewardCard.swf
+flash/dungeon/ui.dungeon.reward.swf
+flash/dungeon/ui.dungeon.swf
+flash/dungeon/ui.ninjaSchool.swf
+flash/dungeon/uiDailySpecialDungeon.swf
+flash/dungeon/uiDungeonWipeout.swf
+flash/dungeon/uiSimpleDungeonRewards.swf
+flash/dungeon/uiWipeout.swf
+
+# --- elementAttr (1)
+flash/elementAttr/elementAttrAsset.swf
+
+# --- equipment (3)
+flash/equipment/EquipmentUI.swf
+flash/equipment/NarutoStoneUI.swf
+flash/equipment/equipHelpUI.swf
+
+# --- exam (2)
+flash/exam/ExamUI.swf
+flash/exam/showTipAward.swf
+
+# --- expeditionary (7)
+flash/expeditionary/BattleHistoryUI.swf
+flash/expeditionary/ChooseUI.swf
+flash/expeditionary/ExpditionMainUI.swf
+flash/expeditionary/HistoryUI.swf
+flash/expeditionary/MainUI.swf
+flash/expeditionary/TreasureBoxUI.swf
+flash/expeditionary/XunZhangUI.swf
+
+# --- fenglai (2)
+flash/fenglai/fenglaiAsset.swf
+flash/fenglai/fenglaiRank.swf
+
+# --- gdpr (1)
+flash/gdpr/GdprUI.swf
+
+# --- gmTool (1)
+flash/gmTool/GmToolUI.swf
+
+# --- growUpStronger (1)
+flash/growUpStronger/MainUI.swf
+
+# --- guild (7)
+flash/guild/GuildConstruct.swf
+flash/guild/GuildEscort.swf
+flash/guild/GuildFeeds.swf
+flash/guild/GuildInfoPanelUI.swf
+flash/guild/GuildSkill.swf
+flash/guild/GuildTech.swf
+flash/guild/LuckyLotteryAction.swf
+
+# --- guildBeast (7)
+flash/guildBeast/BusinessUI.swf
+flash/guildBeast/GuildBeastCaptureUI.swf
+flash/guildBeast/GuildBeastHelpUI.swf
+flash/guildBeast/GuildBeastSceneUI.swf
+flash/guildBeast/GuildBeastTransformUI.swf
+flash/guildBeast/GuildBeastUI.swf
+flash/guildBeast/ImmolationUI.swf
+
+# --- guildDungeon (1)
+flash/guildDungeon/uiGuildDungeon.swf
+
+# --- gvg (3)
+flash/gvg/GVGQualifiersUI.swf
+flash/gvg/GvgInfoUI.swf
+flash/gvg/gvgHelpUI.swf
+
+# --- home (10)
+flash/home/HomeDispatchFriend.swf
+flash/home/HomeFlowerActionUI.swf
+flash/home/HomeGiftShopUI.swf
+flash/home/HomeTaskUI.swf
+flash/home/HomeUI.swf
+flash/home/HomeUI2.swf
+flash/home/NinjiaDialog.swf
+flash/home/SendGift.swf
+flash/home/SpringUI.swf
+flash/home/greeting.swf
+
+# --- honor (7)
+flash/honor/HonorAnimationUI.swf
+flash/honor/HonorCupUI.swf
+flash/honor/HonorHelpUI.swf
+flash/honor/HonorLotteryUI.swf
+flash/honor/HonorTitleUI.swf
+flash/honor/HonorTitleVisibleSettingUI.swf
+flash/honor/HonorUI.swf
+
+# --- hud (14)
+flash/hud/ActivityNavigateUI.swf
+flash/hud/activityDashboard.swf
+flash/hud/challengeUI.swf
+flash/hud/combatChangeAsset.swf
+flash/hud/commondRes.swf
+flash/hud/fireDream.swf
+flash/hud/guildRedPackageUI.swf
+flash/hud/mainUI.swf
+flash/hud/newhandGift.swf
+flash/hud/newyearYanhua.swf
+flash/hud/shujiafullScreenWaterGame.swf
+flash/hud/uiWipeoutIndicator.swf
+flash/hud/waterBallBoom.swf
+flash/hud/winterScreenSnow.swf
+
+# --- huntLife (1)
+flash/huntLife/assets.swf
+
+# --- idol (5)
+flash/idol/common.swf
+flash/idol/equipmentUI.swf
+flash/idol/formation.swf
+flash/idol/ninjaHelpUI.swf
+flash/idol/troopAssets.swf
+
+# --- jdc (1)
+flash/jdc/jdcAsset.swf
+
+# --- knowledgeTest (3)
+flash/knowledgeTest/SceneMainView.swf
+flash/knowledgeTest/awardView.swf
+flash/knowledgeTest/signupView.swf
+
+# --- limitGifted (1)
+flash/limitGifted/limitGiftedUI.swf
+
+# --- mail (1)
+flash/mail/mailUI.swf
+
+# --- majorRole (2)
+flash/majorRole/talentHelpUI.swf
+flash/majorRole/ui.talent.swf
+
+# --- map (1)
+flash/map/mapUI.swf
+
+# --- mapAttack (2)
+flash/mapAttack/mapAttackAsset.swf
+flash/mapAttack/mapAttackTask.swf
+
+# --- miaoKiyama (2)
+flash/miaoKiyama/miaokiyamaUI.swf
+flash/miaoKiyama/miaokiyamaUIHelp.swf
+
+# --- minecraft (5)
+flash/minecraft/chooseNinja.swf
+flash/minecraft/formation.swf
+flash/minecraft/lottery.swf
+flash/minecraft/mineCraftLog.swf
+flash/minecraft/mineCraftUI.swf
+
+# --- newServerActivity (10)
+flash/newServerActivity/ActivityNavigateUI.swf
+flash/newServerActivity/accumulativeConsumeUI.swf
+flash/newServerActivity/accumulativeRechargeUI.swf
+flash/newServerActivity/buyMonthCardUI.swf
+flash/newServerActivity/combatRankUI.swf
+flash/newServerActivity/dailyConsumeGiftUI.swf
+flash/newServerActivity/dailyRechargeGiftUI.swf
+flash/newServerActivity/dailyRechargeGiftUI2.swf
+flash/newServerActivity/snacksRankViewUI.swf
+flash/newServerActivity/upgradeGiftUI.swf
+
+# --- newestActivity (10)
+flash/newestActivity/BonusPageUI.swf
+flash/newestActivity/ChargeBonusActivityPageUI.swf
+flash/newestActivity/ChristmasActivityPageUI.swf
+flash/newestActivity/LimitedForgePropActivityPageUI.swf
+flash/newestActivity/NewestActivityUI.swf
+flash/newestActivity/PlayboyPageUI.swf
+flash/newestActivity/fudaiPageUI.swf
+flash/newestActivity/newYearLotter.swf
+flash/newestActivity/recruitUI.swf
+flash/newestActivity/uiNewYearNinja.swf
+
+# --- newestNinja (1)
+flash/newestNinja/uiMain.swf
+
+# --- newplot (3)
+flash/newplot/PlotDialogUI.swf
+flash/newplot/actorAppearAni.swf
+flash/newplot/appearAni.swf
+
+# --- ninja (20)
+flash/ninja/CardUI.swf
+flash/ninja/CopyFormationUI.swf
+flash/ninja/GetNinjia.swf
+flash/ninja/SkillBookBagUI.swf
+flash/ninja/changeNinjaEquipmentUI.swf
+flash/ninja/common.swf
+flash/ninja/exchang.swf
+flash/ninja/newChapterOpen.swf
+flash/ninja/ninjaExchange.swf
+flash/ninja/ninjaHelpUI.swf
+flash/ninja/ninjaInfoUI.swf
+flash/ninja/practice.popups.swf
+flash/ninja/selectReel.swf
+flash/ninja/swapSkillItemUI.swf
+flash/ninja/troopAssets.swf
+flash/ninja/ui.CardRecycle.swf
+flash/ninja/ui.changeSkillBookUI.swf
+flash/ninja/ui.ninjaSystem.PracticeUI.swf
+flash/ninja/ui.ninjaSystem.UpgradeAwake.swf
+flash/ninja/ui.ninjaSystem.transfigurationUI.swf
+
+# --- ninjaAid (1)
+flash/ninjaAid/NinjaAidHelpUI.swf
+
+# --- ninjaAssist (1)
+flash/ninjaAssist/ninjaAssist.swf
+
+# --- ninjaBase (6)
+flash/ninjaBase/NinjaBaseEffectsUI.swf
+flash/ninjaBase/NinjaBaseUI.swf
+flash/ninjaBase/OtherBaseSceneUI.swf
+flash/ninjaBase/ResultUI.swf
+flash/ninjaBase/intelligence.swf
+flash/ninjaBase/organization.swf
+
+# --- ninjaManual (1)
+flash/ninjaManual/ninjaManualUI.swf
+
+# --- ninjaSchool (1)
+flash/ninjaSchool/ui.ninjaSchool.swf
+
+# --- npc (5)
+flash/npc/ImageBoxUI.swf
+flash/npc/compensateBonusUI.swf
+flash/npc/npcUI.swf
+flash/npc/ui.npc.taskNpcDialog.swf
+flash/npc/wabaoBattleNpcEffect.swf
+
+# --- operatingActivity (117)
+flash/operatingActivity/810021.swf
+flash/operatingActivity/810022.swf
+flash/operatingActivity/810023.swf
+flash/operatingActivity/810025.swf
+flash/operatingActivity/810101.swf
+flash/operatingActivity/ActivityNavigateUI.swf
+flash/operatingActivity/AnimationFinishedUI.swf
+flash/operatingActivity/Ann11thUI.swf
+flash/operatingActivity/Anniversary2016.swf
+flash/operatingActivity/AnnouncementUI.swf
+flash/operatingActivity/ArenaNinjaUI.swf
+flash/operatingActivity/ArenaThemeAsset.swf
+flash/operatingActivity/AutumnGiftUI.swf
+flash/operatingActivity/BackSchool2017.swf
+flash/operatingActivity/BattlezhaohuanUI.swf
+flash/operatingActivity/BonusPageUI.swf
+flash/operatingActivity/BorutoTrialUI.swf
+flash/operatingActivity/CaiDan.swf
+flash/operatingActivity/CardRecyclePosterUI.swf
+flash/operatingActivity/Carnival_2017.swf
+flash/operatingActivity/CatPresent.swf
+flash/operatingActivity/ChargeConsumeReward.swf
+flash/operatingActivity/ChargeRichPresent.swf
+flash/operatingActivity/ChristmasCalendar.swf
+flash/operatingActivity/CombinedActivitiesUI.swf
+flash/operatingActivity/ConsumeRankUI.swf
+flash/operatingActivity/CrazyBargain.swf
+flash/operatingActivity/DaMoTiaoZhanUI.swf
+flash/operatingActivity/DailyActivityUI.swf
+flash/operatingActivity/DailyNinjiaFragmentRewards.swf
+flash/operatingActivity/DailyRechargeBonusUI.swf
+flash/operatingActivity/DailyStoreUI.swf
+flash/operatingActivity/ExchangeUI.swf
+flash/operatingActivity/FairyTreasure.swf
+flash/operatingActivity/FireWillUI.swf
+flash/operatingActivity/FireworkAnimUI.swf
+flash/operatingActivity/FireworkUI.swf
+flash/operatingActivity/GiftEveryWeek.swf
+flash/operatingActivity/GoldConsumeRankUI.swf
+flash/operatingActivity/GongCeKuangHuan.swf
+flash/operatingActivity/GongCeMeiRiYouLiUI.swf
+flash/operatingActivity/GrowUpFund.swf
+flash/operatingActivity/GuildCallbackUI.swf
+flash/operatingActivity/GuildRaceActivityUI.swf
+flash/operatingActivity/GuildRedPackage.swf
+flash/operatingActivity/HYFD_UI.swf
+flash/operatingActivity/Halloween.swf
+flash/operatingActivity/HotStrategy.swf
+flash/operatingActivity/JHGift.swf
+flash/operatingActivity/JLZJViewUI.swf
+flash/operatingActivity/JZP_UI.swf
+flash/operatingActivity/JiJieHao.swf
+flash/operatingActivity/KuaFuTuanGouUI.swf
+flash/operatingActivity/LZGUI.swf
+flash/operatingActivity/LanZuanXinNianQianDaoLi.swf
+flash/operatingActivity/LanternActivity2017.swf
+flash/operatingActivity/LanternActivityUI.swf
+flash/operatingActivity/LaoHuJi.swf
+flash/operatingActivity/LimitCallUI.swf
+flash/operatingActivity/LimitStoreUI.swf
+flash/operatingActivity/LimitTimeGiftUI.swf
+flash/operatingActivity/LimitTimeGiftUI2.swf
+flash/operatingActivity/LimitTimeRefiningEqumpmentUI.swf
+flash/operatingActivity/LimitTimeScoreUI.swf
+flash/operatingActivity/LimitedBeast.swf
+flash/operatingActivity/LoginWelfare.swf
+flash/operatingActivity/Lottery.swf
+flash/operatingActivity/LotteryGiftUI.swf
+flash/operatingActivity/LuckyFish.swf
+flash/operatingActivity/LuckyTreasure.swf
+flash/operatingActivity/MC_UI.swf
+flash/operatingActivity/MidAutumn.swf
+flash/operatingActivity/MidAutumn3UI.swf
+flash/operatingActivity/MoneyBonus.swf
+flash/operatingActivity/MonthCard.swf
+flash/operatingActivity/MuYeYearUI.swf
+flash/operatingActivity/MysteryChestPosterUI.swf
+flash/operatingActivity/MysteryFruiti.swf
+flash/operatingActivity/NarutoBirthdayPartyUI.swf
+flash/operatingActivity/NarutoStoneFanLi.swf
+flash/operatingActivity/NewFuzhou.swf
+flash/operatingActivity/NewNinjaTopic.swf
+flash/operatingActivity/NewYear2025TrialUI.swf
+flash/operatingActivity/NinjaAssistActivity.swf
+flash/operatingActivity/NinjaJigsaw.swf
+flash/operatingActivity/NinjaLaiXi.swf
+flash/operatingActivity/NinjaPropsTraining.swf
+flash/operatingActivity/NinjaPropsTraining2.swf
+flash/operatingActivity/NinjaSummaryUI.swf
+flash/operatingActivity/NinjutsuTrain.swf
+flash/operatingActivity/NinjutsuTrain2.swf
+flash/operatingActivity/OP800101UI.swf
+flash/operatingActivity/OP820009UI.swf
+flash/operatingActivity/OP820016.swf
+flash/operatingActivity/OP900008.swf
+flash/operatingActivity/OP900010.swf
+flash/operatingActivity/QueQiaoXiangHuiUI.swf
+flash/operatingActivity/SummerMeet.swf
+flash/operatingActivity/SummerVacation.swf
+flash/operatingActivity/ValentineGiftExchangeUI.swf
+flash/operatingActivity/ZhouMoFuLi.swf
+flash/operatingActivity/coldFoodFestivalUI.swf
+flash/operatingActivity/daZhuanPan.swf
+flash/operatingActivity/duanwuRicePuddingUI.swf
+flash/operatingActivity/duanwuUI.swf
+flash/operatingActivity/hitegg.swf
+flash/operatingActivity/muyeSale.swf
+flash/operatingActivity/muyewan.swf
+flash/operatingActivity/perdayConsume.swf
+flash/operatingActivity/schoolWelfare.swf
+flash/operatingActivity/shuangZhuanPan.swf
+flash/operatingActivity/shujiaKuangHuan.swf
+flash/operatingActivity/shujiaLoginBonus.swf
+flash/operatingActivity/shujiaWaterGame.swf
+flash/operatingActivity/shujia_happyExchange.swf
+flash/operatingActivity/trainingActivity.swf
+flash/operatingActivity/winterActivity.swf
+
+# --- peakSeasonArena (1)
+flash/peakSeasonArena/peakSeasonAsset.swf
+
+# --- rankbattle (1)
+flash/rankbattle/UI.swf
+
+# --- server (1)
+flash/server/NarutoServer.swf
+
+# --- tabard (1)
+flash/tabard/tabardUI.swf
+
+# --- tactic (1)
+flash/tactic/uiTactic.swf
+
+# --- task (1)
+flash/task/ui.task.escort.swf
+
+# --- throughTheBeast (1)
+flash/throughTheBeast/BeastDevelop.swf
+
+# --- universeFuzion (1)
+flash/universeFuzion/rankbattleUI.swf
+
+# --- user (1)
+flash/user/SecondPasswordUI.swf
+
+# --- varietyShop (1)
+flash/varietyShop/varietyShopUI.swf
+
+# --- welfare (2)
+flash/welfare/SigninUI.swf
+flash/welfare/welfareRevision.swf
