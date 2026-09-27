@@ -1,5 +1,5 @@
 # Naruto Online DE → English patch
-
+https://www.youtube.com/watch?v=jMk5ogjQWyg
 Play on a **German (Oasis DE) Naruto Online server** with the game shown in **English**.
 
 A small local proxy sits between the Naruto Online desktop client and the German resource
